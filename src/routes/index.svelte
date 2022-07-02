@@ -71,7 +71,7 @@
 		@include swish;
 
 		@media (min-width: $bp-md) {
-			font-size: 1.5em;
+			font-size: 1.8em;
 		}
 
 		&:hover {
